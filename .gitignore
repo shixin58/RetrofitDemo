@@ -11,6 +11,7 @@ build/
 .idea/workspace.xml
 .idea/gradle.xml
 .idea/libraries/
+.idea/codeStyles/
 .idea/misc.xml
 .idea/kotlinc.xml
 *.iws
